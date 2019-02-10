@@ -15,3 +15,6 @@
 *.aliases
 *.lvlps
 .cache/
+builds/depinstr.bin
+builds/usr/local/frc/third-party/lib/ReadMe.txt
+builds/home/lvuser/natinst/bin/startup.rtexe
